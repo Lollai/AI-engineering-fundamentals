@@ -5,3 +5,4 @@ pypdf==4.0.1
 sentence-transformers==3.0.1
 requests==2.31.0
 protobuf==5.27.2
+numpy==1.26.4
