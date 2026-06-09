@@ -1,7 +1,8 @@
 anthropic==0.40.0
-streamlit==1.42.1
+streamlit==1.40.2
 chromadb==0.4.24
 pypdf==4.0.1
 sentence-transformers==3.0.1
 requests==2.31.0
-protobuf==4.25.3
+protobuf==5.27.2
+google-protobuf==5.27.2
